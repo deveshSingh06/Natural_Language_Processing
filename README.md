@@ -7,4 +7,4 @@ Here, I have discussed some techniques of converting a text, which could be a wo
 - This could help us classify various groups of texts such as positive and negative texts.
 
 > **Note:** 1. A text, which could be a word or a sentence, is known as a document in NLP.
-           2. A collection of such documents is known as document corpus.
+    2. A collection of such documents is known as document corpus.

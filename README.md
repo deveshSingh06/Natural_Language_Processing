@@ -8,11 +8,10 @@ Here, I have discussed some techniques of converting a text, which could be a wo
 - TF-IDF Weighted Word2Vec
 
 I have also discussed some text pre-processing techniques such as:
-1. Deduplication
-2. Stop-words removal
-3. Lower case conversion
-4. Stemming
-5. Lemmitization
+1. Stop-words removal
+2. Lower case conversion
+3. Stemming
+4. Lemmitization
 
 ## Why convert text to a vector?
 - Converting a text to a vector helps us use the power of linear algebra.

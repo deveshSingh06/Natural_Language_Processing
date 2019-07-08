@@ -7,7 +7,7 @@ Here, I have discussed some techniques of converting a text, which could be a wo
 - Average Word to Vector(Avg Word2Vec)
 - TF-IDF Weighted Word2Vec
 
-Hands-on experience of all the above listed techniques can be found out in this file(from section 4 through section 9): https://github.com/deveshSingh06/Amazon-Fine-Food-Reviews-Analysis/blob/master/Amazon%20Fine%20Food%20Reviews%20Analysis.ipynb 
+Hands-on experience of all the above listed techniques can be found out in this [notebook](https://github.com/deveshSingh06/Amazon-Fine-Food-Reviews-Analysis/blob/master/Amazon%20Fine%20Food%20Reviews%20Analysis.ipynb) (from section 4 through section 9).
 
 
 I have also discussed some text pre-processing techniques such as:
